@@ -49,15 +49,23 @@ Future Improvements:
 •	Add persistent storage using files or databases.
 •	Categorize recipes into groups like Vegetarian, Non-Vegetarian, etc.
 •	Enhance the user interface with better styling.
-Screenshots:  
+Screenshots: 
+
 LOG IN PAGE: 
+
 ![Screenshot 2024-12-10 170534](https://github.com/user-attachments/assets/ca4beceb-e6d5-454b-9adb-1448e55f7d11)
 
 
 MAIN MENU: 
-![alt text](<Screenshot 2024-12-10 170723.png>)
+
+![Screenshot 2024-12-10 170723](https://github.com/user-attachments/assets/ae5c8957-35d4-4440-8213-65111b9ea66c)
+
+
 
 ADD RECIPE PAGE:
- ![alt text](<Screenshot 2024-12-10 170934.png>)
+
+![Screenshot 2024-12-10 170934](https://github.com/user-attachments/assets/97741284-8610-488b-aa37-b8cd79b1cb5f)
+
+
 
 REST OF THE PAGES will be in DOCUMENTATION 😊.
