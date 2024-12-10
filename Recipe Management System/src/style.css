@@ -1,0 +1,58 @@
+/* General Styles */
+.root {
+    -fx-font-family: "Arial";
+    -fx-base: #c5e1a5;
+    -fx-background-color: #f3f4f6;
+}
+
+/* Header */
+#header {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c6e49;
+    -fx-alignment: center;
+}
+
+/* Input Fields */
+#inputField {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color: #e8f5e9;
+    -fx-border-color: #81c784;
+    -fx-text-fill: #388e3c;
+}
+
+#inputArea {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color: #e8f5e9;
+    -fx-border-color: #81c784;
+    -fx-text-fill: #388e3c;
+}
+
+/* Buttons */
+#addButton {
+    -fx-background-color: #81c784;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+#saveButton {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+/* Status Label */
+#statusLabel {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-text-fill: #388e3c;
+    -fx-font-weight: bold;
+}
