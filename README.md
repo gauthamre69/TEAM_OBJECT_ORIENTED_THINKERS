@@ -51,7 +51,8 @@ Future Improvements:
 •	Enhance the user interface with better styling.
 Screenshots:  
 LOG IN PAGE: 
-![alt text](<Screenshot 2024-12-10 170534.png>)
+![Screenshot 2024-12-10 170534](https://github.com/user-attachments/assets/ca4beceb-e6d5-454b-9adb-1448e55f7d11)
+
 
 MAIN MENU: 
 ![alt text](<Screenshot 2024-12-10 170723.png>)
