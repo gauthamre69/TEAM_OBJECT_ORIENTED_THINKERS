@@ -22,6 +22,7 @@ src/
 ├── style.css                 // Contains styles for the application
 README.md                     // This documentation file
 
+
 How to Run:
 
 1.	Install Requirements:
