@@ -1,4 +1,5 @@
 Recipe Management System:
+
 This is a simple JavaFX application to manage recipes. It allows users to sign up, log in, and perform various operations like adding, editing, searching, and viewing recipes.
 
 Features:
@@ -13,6 +14,7 @@ Tech Stack:
 •	Framework: JavaFX
 
 File Structure:
+
 src/
 ├── DatabaseConnection.java   // For handling database connections (optional placeholder)
 ├── RecipeController.java     // Handles recipe-related operations
